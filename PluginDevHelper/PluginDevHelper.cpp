@@ -13,6 +13,7 @@
 
 #include "easywsclient.hpp"
 #include "stringutils.h"
+#include <chrono>
 
 using easywsclient::WebSocket;
 
